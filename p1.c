@@ -1,3 +1,6 @@
+/*P1.c*/
+/*Lucas Eduardo*/
+/*11811EEL016*/
 #include <stdio.h>
 
 int main()
